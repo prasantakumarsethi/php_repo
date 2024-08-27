@@ -229,7 +229,7 @@
 
                     </div>
 
-                    <div class="flex-shrink-0"><span class="text-primary">April 2022 - Jul 2023</span></div>
+                    <div class="flex-shrink-0"><span class="text-primary">Mar 2023 - Jul 2023</span></div>
 
                 </div>
 
