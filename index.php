@@ -211,6 +211,50 @@
 
         <hr class="m-0" />
 
+        <!-- Projects Woked on-->
+        <section class="resume-section" id="project">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">Projects</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">Campus Automation System</h3>
+
+                        <div class="subheading mb-3">A application for campus automation</div>
+
+                        <!-- <p>GPA: 8.2</p> -->
+
+                    </div>
+
+                    <div class="flex-shrink-0"><span class="text-primary">April 2022 - Jul 2023</span></div>
+
+                </div>
+
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">Shree JAMI</h3>
+
+                        <div class="subheading mb-3">A GIS based land management system</div>
+
+                        <!-- <p>GPA: 8.2</p> -->
+
+                    </div>
+
+                    <div class="flex-shrink-0"><span class="text-primary">July 2023 -Aug 2024</span></div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <hr class="m-0" />
+
         <!-- Education-->
 
         <section class="resume-section" id="education">
